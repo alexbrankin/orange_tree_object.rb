@@ -1,4 +1,4 @@
-class Orange_Tree
+class OrangeTree
 	
 	def initialize 
 		@age = 0 
@@ -128,6 +128,7 @@ tree.eat 1
 tree.count
 tree.pass_time
 tree.sing
+tree.pass_time
 
 
 
